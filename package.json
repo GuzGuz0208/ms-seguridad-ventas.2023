@@ -62,6 +62,7 @@
     "jsonwebtoken": "^9.0.2",
     "loopback-connector-mongodb": "^5.6.0",
     "mongodb": "3.6",
+    "parse-bearer-token": "^1.0.1",
     "tslib": "^2.0.0"
   },
   "devDependencies": {
